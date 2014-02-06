@@ -1,0 +1,17 @@
+citHeader("To cite the 'cpca' package in publications use:")
+
+citEntry(
+  entry="manual",
+  title = "cpca: Methods to perform Common Principal Component Analysis (CPCA)",
+  author = personList(
+    as.person("Andrey Ziyatdinov"),
+    as.person("Samir Kanaan-Izquierdo"),
+    as.person("Nickolay T. Trendafilov"),
+    as.person("Alexandre Perera-Lluna")),
+  year = "2014",
+  url = "https://github.com/variani/cpca",
+  note = "R package version 0.1.2",
+  textVersion =  paste("A. Ziyatdinov, S. Kanaan-Izquierdo, N. T. Trendafilov and A. Perera-Lluna (2014)",
+    "cpca: Methods to perform Common Principal Component Analysis (CPCA).",
+    "R package version 0.1.2. https://github.com/variani/cpca")  
+)

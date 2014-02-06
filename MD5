@@ -1,0 +1,14 @@
+32a12bbdeb09b449eb7cba20bdfe831a *DESCRIPTION
+66919c31e087541af777013911639563 *NAMESPACE
+93124e95fef4992ea21bf7fbc21dda1e *R/cpc.lib.R
+a07a76fbea7f691b72ff130cede4e104 *R/package.R
+924739af36c0341c34ab58e904efc8fe *README.md
+f0fb67bdab6a9b0e8446fae6efa1c612 *demo/00Index
+4445162f0e3f81a7414caa0f0554ec1f *demo/iris.R
+439036b69834f929a0328ea06d50ebce *inst/CITATION
+3fda10c8a375b0cb52c922616b2060b2 *inst/COPYING
+861c3af5f7346fa4e88b54b7bdae12c9 *inst/doc/demo.html
+451e559f015455a177c6cda15f02971c *inst/examples/function-cpc.R
+4445162f0e3f81a7414caa0f0554ec1f *inst/examples/package-cpca.R
+fa54feb0043dc455f2f6cea3b8658313 *man/cpc.Rd
+2dc409e3a207b1fbb5d87fb4e52b6f4e *man/cpca-package.Rd
